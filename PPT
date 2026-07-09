@@ -1,0 +1,197 @@
+# 🌍 Earthquake_Project
+
+## Global Seismic Trends: Data-Driven Earthquake Insights
+
+---
+
+# Slide 1 – Title
+
+**Earthquake_Project**
+
+**Global Seismic Trends: Data-Driven Earthquake Insights**
+
+**Developed By:**
+Anitha Karthik
+
+**Technologies:**
+Python | MySQL | SQL | Streamlit | Pandas
+
+---
+
+# Slide 2 – Problem Statement
+
+Earthquakes occur every day across the world and generate large amounts of seismic data. Analyzing this information helps identify high-risk regions, understand earthquake trends, and support disaster preparedness. This project transforms raw earthquake data into meaningful insights using data analytics and visualization.
+
+---
+
+# Slide 3 – Project Objectives
+
+* Collect earthquake data from the USGS Earthquake API.
+* Clean and preprocess raw data.
+* Store processed data in a MySQL database.
+* Perform SQL-based analysis.
+* Build an interactive Streamlit dashboard.
+* Generate actionable insights from global earthquake data.
+
+---
+
+# Slide 4 – Technology Stack
+
+**Programming Language**
+
+* Python
+
+**Libraries**
+
+* Pandas
+* Requests
+* SQLAlchemy
+* Matplotlib
+* Seaborn
+
+**Database**
+
+* MySQL
+
+**Visualization**
+
+* Streamlit Dashboard
+
+**Version Control**
+
+* Git & GitHub
+
+---
+
+# Slide 5 – Project Workflow
+
+USGS API
+
+⬇
+
+Data Collection
+
+⬇
+
+Data Cleaning & Preprocessing
+
+⬇
+
+Feature Engineering
+
+⬇
+
+MySQL Database
+
+⬇
+
+SQL Analysis
+
+⬇
+
+Streamlit Dashboard
+
+⬇
+
+Business Insights
+
+---
+
+# Slide 6 – Data Preprocessing
+
+* Retrieved earthquake records from the USGS API.
+* Removed duplicate records.
+* Handled missing values.
+* Converted timestamps into readable date and time.
+* Extracted Year, Month, Day, and Day of Week.
+* Created Country and Depth Category columns.
+* Prepared clean data for database storage.
+
+---
+
+# Slide 7 – Database & SQL Analysis
+
+**Database:** MySQL
+
+**Sample Analysis**
+
+* Top 10 strongest earthquakes
+* Deepest earthquakes
+* Monthly earthquake trends
+* Earthquakes by country
+* Average magnitude by region
+* Tsunami occurrence analysis
+* Magnitude distribution
+* Depth category analysis
+
+---
+
+# Slide 8 – Dashboard Features
+
+The Streamlit dashboard provides:
+
+* Total Earthquake Count
+* Magnitude Distribution
+* Earthquakes by Country
+* Monthly Trend Analysis
+* Depth Category Analysis
+* Strongest Earthquakes
+* Tsunami Analysis
+* SQL Query Results
+* Interactive Filters
+
+---
+
+# Slide 9 – Key Insights
+
+* Most recorded earthquakes occur at shallow depths.
+* Moderate-magnitude earthquakes are more common than very high-magnitude events.
+* Earthquake frequency varies across years and geographic regions.
+* Some countries experience significantly higher seismic activity.
+* Interactive dashboards improve exploration of earthquake trends and support decision-making.
+
+---
+
+# Slide 10 – Challenges & Solutions
+
+**Challenges**
+
+* API data inconsistencies
+* Missing values
+* Large datasets
+* Database integration
+
+**Solutions**
+
+* Data preprocessing with Pandas
+* Missing value handling
+* SQL optimization
+* Modular Python code
+* Streamlit for interactive visualization
+
+---
+
+# Slide 11 – Conclusion & Future Scope
+
+### Conclusion
+
+This project demonstrates a complete data analytics workflow, from collecting earthquake data through API integration to cleaning, storing, analyzing, and visualizing it. The dashboard helps users understand global seismic trends through interactive charts and SQL-based insights.
+
+### Future Scope
+
+* Real-time earthquake monitoring
+* Interactive global map visualizations
+* Automated data refresh
+* Machine learning for earthquake trend prediction
+* Cloud deployment for wider accessibility
+
+---
+
+# Slide 12 – Thank You
+
+**Thank You!**
+
+Questions & Discussion
+
+**Developed By**
+Anitha Karthik
